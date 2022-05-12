@@ -1,12 +1,10 @@
 // JRE => Java Runtime Environment
 // JVM => Java Virtual Machine
 // JDK => Java Development Kit
-// Java is Portable language, because you can convert it to byte code and run it in any system.
+// Java is a Portable language, because you can convert it to byte code and run it in any system.
+// Java is a typed language, because if you want to define any variable, then you need to add the type of variable.
 
-class FirstClass {
-
-  // Data Types
-
+// Data Types
   // Primitive => 
   //   1. int, 
   //   2. double, 
@@ -23,6 +21,8 @@ class FirstClass {
   //   3. Object,
   //   4. Interface,
   //   5. Class,
+
+class FirstClass {
 
   public static void main(String[] args) {
     System.out.println("Hello, World!");
