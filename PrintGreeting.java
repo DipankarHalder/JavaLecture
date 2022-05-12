@@ -18,17 +18,13 @@ public class PrintGreeting {
 
     // switch statement to print the greeting
     switch(optionName) {
-      case 1:
-        System.out.println("Hello, World!");
+      case 1: System.out.println("Hello, World!");
         break;
-      case 2:
-        System.out.println("Namaste, World!");
+      case 2: System.out.println("Namaste, World!");
         break;
-      case 3:
-        System.out.println("Bonjour, World!");
+      case 3: System.out.println("Bonjour, World!");
         break;
-      default:
-        System.out.println("Sorry! :( Bad input.");
+      default: System.out.println("Sorry! :( Bad input.");
     }
   }
 }
