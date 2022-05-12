@@ -24,7 +24,7 @@
 
 import java.util.*;
 
-class FirstClass {
+public class FirstClass {
 
   public static void main(String[] args) {
 
