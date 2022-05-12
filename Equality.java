@@ -6,6 +6,7 @@ public class Equality {
     int num_one = sc.nextInt();
     int num_two = sc.nextInt();
 
+    // check if number is equal or not
     if (num_one == num_two) {
       System.out.println("Both are equal : " + num_one + " == " + num_two);
     } else {
